@@ -1,0 +1,12 @@
+{
+  "name": "fk/doctrine",
+  "description": "Helpers made for Dctrine",
+  "require": {
+    "php": ">=7.2",
+  },
+  "autoload": {
+    "psr-4": {
+      "fk\\Doctrine\\": "./src"
+    }
+  }
+}
