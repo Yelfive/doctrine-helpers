@@ -3,7 +3,7 @@
   "description": "Helpers made for Dctrine",
   "require": {
     "php": ">=7.2",
-    "doctrine\\dbal": ">=2.6"
+    "doctrine/dbal": ">=2.6"
   },
   "autoload": {
     "psr-4": {
